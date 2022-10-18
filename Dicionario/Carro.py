@@ -1,6 +1,5 @@
 car = {"carro": [], "ano": [], "preço": []}
 
-
 for i in range(5):
     carro = input("Digite o carro que deseja: ")
     car["carro"].append(carro)
